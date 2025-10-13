@@ -1,7 +1,5 @@
 sentence = 'Python slicing is very powerful'
-
-
-print(sentence[0:6])   
+print(sentence[0:6])  
 print(sentence[:-32])    
 
 
